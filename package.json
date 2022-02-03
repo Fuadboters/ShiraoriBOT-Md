@@ -1,5 +1,5 @@
 {
-    "name": "ShiraoriBOT-Md",
+    "name": "FuadBOT-Md",
     "version": "0.4.5",
     "description": "Simle Bot WhatsApp with Baileys Multi Device",
     "depecrated": false,
@@ -25,7 +25,7 @@
     ],
     "homepage": "https://github.com/ilmanhdyt/ShiraoriBOT-Md",
     "author": {
-        "name": "Ilman"
+        "name": "Fuad"
     },
     "repository": {
         "type": "git",
